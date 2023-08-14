@@ -27,7 +27,7 @@ jobs:
             api.github.com:443
             auth.docker.io:443
             codecov.io:443
-            eusreplstore80.blob.core.windows.net:443
+            eusreplstore*.blob.core.windows.net:443
             ghcr.io:443
             github.com:443
             index.docker.io:443
